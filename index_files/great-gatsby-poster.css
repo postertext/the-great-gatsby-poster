@@ -428,7 +428,7 @@ a {
 .frame-not-included-wrapper {
   position: absolute;
   right: 130px;
-  bottom: 604px;
+  bottom: 600px;
   display: block;
 }
 .product-img-zoom-container {
@@ -610,7 +610,7 @@ html.w-mod-js *[data-ix="0-opacity-on-load"] {
   }
   .frame-not-included-wrapper {
     right: 25px;
-    bottom: 605px;
+    bottom: 600px;
   }
   .testimonials-wrapper {
     padding-right: 50px;
@@ -878,7 +878,7 @@ html.w-mod-js *[data-ix="0-opacity-on-load"] {
   }
   .frame-not-included-wrapper {
     right: -15px;
-    bottom: 615px;
+    bottom: 605px;
   }
   .testimonials-header {
     margin-top: 0px;
