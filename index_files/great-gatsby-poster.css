@@ -172,7 +172,7 @@ a {
 }
 .hero-wrapper {
   padding: 35px 70px;
-  background-image: url(https://daks2k3a4ib2z.cloudfront.net/558e073a777d78fc7ddcd6a1/558f999bd4bdacce3fc2542a_book-background-pattern-SINGLE.jpg);
+  background-image: url(/index_files/book-background-pattern.jpg);
   background-size: 138px;
 }
 .hero-img-wrapper {
@@ -320,7 +320,7 @@ a {
   position: static;
   height: 50px;
   background-color: white;
-  background-image: url(https://daks2k3a4ib2z.cloudfront.net/558e073a777d78fc7ddcd6a1/55912ed6de231ac177a91e71_separator.png);
+  background-image: url(/index_files/separator.png);
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: repeat-x;
@@ -396,7 +396,7 @@ a {
 .stack-books-container {
   display: block;
   height: 883px;
-  background-image: url(https://daks2k3a4ib2z.cloudfront.net/558e073a777d78fc7ddcd6a1/55915022344d38670ea73da0_stack-of-books.gif);
+  background-image: url(/index_files/stack-of-books.png);
   background-position: 50px 0%;
   background-repeat: no-repeat;
   background-attachment: scroll;
